@@ -1,16 +1,15 @@
 # to_do_application
 
-A new Flutter project.
+A new Flutter project as Intern in BrainwaveMatrixSolutions
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Snapshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-11-25 194658](https://github.com/user-attachments/assets/4e1d611e-db01-4a86-bc37-4c0e89c59b35)
+![Screenshot 2024-11-25 194714](https://github.com/user-attachments/assets/82270316-747b-4268-b78c-1bf7cebc5a0c)
+![Screenshot 2024-11-25 194731](https://github.com/user-attachments/assets/77ac4e52-e142-4e0d-b5ac-a6a107aea1d5)
