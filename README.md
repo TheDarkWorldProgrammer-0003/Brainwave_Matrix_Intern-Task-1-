@@ -1,6 +1,6 @@
 # to_do_application
 
-A new Flutter project as Intern in BrainwaveMatrixSolutions
+A new Flutter project as an Intern in BrainwaveMatrixSolutions
 
 
 ## Getting Started
